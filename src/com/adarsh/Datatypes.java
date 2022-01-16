@@ -12,10 +12,9 @@ public class Datatypes {
 
         int age = 16; //creating a int variable
         int marks = 50;
-        // Integer marks = new Integer(56); method to create an Int object. This allow us to perform a lot of functions on the integer.
-
+        // Integer marks = new Integer(56); method to create an Int object. This allow us to perform a lot of functions on the integer
         System.out.println(marks);
-        //Functions can be accessed by writing "marks."
+        //Various Functions on integers can be accessed by writing "marks."
 
     }
 }
