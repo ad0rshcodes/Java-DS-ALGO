@@ -1,4 +1,4 @@
-package com.adarsh;
+package com.lectures;
 
 public class Main { //The className has to be capitalised and similar to that of the file name.
 

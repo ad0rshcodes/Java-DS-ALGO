@@ -1,4 +1,4 @@
-package com.adarsh;
+package com.lectures;
 
 import java.util.Scanner;
 
