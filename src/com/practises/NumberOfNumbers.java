@@ -8,7 +8,10 @@ public class NumberOfNumbers {
 
         Scanner in = new Scanner (System.in);
 
+        System.out.print("Enter the number: ");
         int givenNum = in.nextInt();
+
+        System.out.print("Enter digit you need to find: ");
         int desiredDigit = in.nextInt(); //desired digit to find.
 
         int count = 0;
