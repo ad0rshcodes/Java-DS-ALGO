@@ -25,7 +25,7 @@ public class CF118A {
 
             char temp = input.charAt(i);
 
-            if (temp != 'a' && temp != 'e' && temp != 'i' && temp != 'o' && temp != 'u'){
+            if (temp != 'a' && temp != 'e' && temp != 'i' && temp != 'o' && temp != 'u' && temp!= 'y'){
 
                 output = output + "." + temp;
 
